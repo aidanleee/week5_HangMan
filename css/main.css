@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+svg {
+  height: 300px;
+}
+
+.show-piece {
+  opacity: 1;
+}
